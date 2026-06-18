@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" height="1000" alt="PNG_FossID Logo Horiozntal" src="https://github.com/user-attachments/assets/adba045e-ce30-4bf3-b726-fc1d96421622" />
+<img width="1912" height="758" alt="Logo_Horizontal Light" src="https://github.com/user-attachments/assets/d9613b8f-81a8-4ad9-9711-d5fc19275779" />
 
 **David Pupaza**
 
